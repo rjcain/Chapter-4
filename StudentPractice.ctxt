@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StudentPractice
+comment1.params=num\ nm
+comment1.target=StudentPractice(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ combineIDNumbers()
+comment3.params=other
+comment3.target=StudentPractice\ newStudent(StudentPractice)
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

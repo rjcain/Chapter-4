@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Pet
+comment1.params=nm\ typ\ al
+comment1.target=Pet(java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ example()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=
+comment5.target=boolean\ getAlive()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
